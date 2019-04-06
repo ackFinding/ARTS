@@ -7,7 +7,10 @@
 
 ****
 ### 第一周(2019.3.31~2019.4.6)
-algorithm:
-review:
-tip:
-share:
+**algorithm**: <a  href ="https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E4%B8%80%E5%91%A8%207.Reverse%20Integer.md">7.Reverse Integer</a>  
+
+**review**:<a  href ="https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E4%B8%80%E5%91%A8%20References%20in%20JAVA.md">References in JAVA</a>  
+
+**tip**: <a  href ="https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%B8%80%E5%91%A8%20%E5%8F%8C%E9%87%8D%E9%94%81%E8%AF%AF%E7%94%A8.md">双重锁误用</a>  
+
+**share**: <a  href ="https://github.com/ackFinding/ARTS/commit/df85da15a4095ed4882ffa026dd4265ad892ed69">Java魔法类：Unsafe应用解析</a>
