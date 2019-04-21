@@ -23,4 +23,13 @@
 **tip**: [数值包装类型比较的坑](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%BA%8C%E5%91%A8%20%20%E6%95%B0%E5%80%BC%E5%8C%85%E8%A3%85%E7%B1%BB%E5%9E%8B%E6%AF%94%E8%BE%83%E7%9A%84%E5%9D%91.md)  
 
 **share**:
-[Java动态追踪技术探究](https://github.com/ackFinding/ARTS/blob/master/Share/%E7%AC%AC%E4%BA%8C%E5%91%A8%20Java%E5%8A%A8%E6%80%81%E8%BF%BD%E8%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6.md)
+[Java动态追踪技术探究](https://github.com/ackFinding/ARTS/blob/master/Share/%E7%AC%AC%E4%BA%8C%E5%91%A8%20Java%E5%8A%A8%E6%80%81%E8%BF%BD%E8%B8%AA%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%A9%B6.md)   
+
+### 第三周(2019.4.14~2019.4.21)
+**algorithm**: [21.Merge Two Sorted Lists.md](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E4%B8%89%E5%91%A8%2021.%20Merge%20Two%20Sorted%20Lists.md)    
+
+**review**: [“Callable” vs “Runnable” Tasks in Java Concurrent Programming](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E4%BA%8C%E5%91%A8%20JVM%20memory%20model.md)    
+
+**tip**: [python进行U盘复制](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%B8%89%E5%91%A8%20python%E8%BF%9B%E8%A1%8CU%E7%9B%98%E5%A4%8D%E5%88%B6.md)    
+
+**share**: [CAS以及其ABA问题及解决方法](https://blog.csdn.net/ack_Finding/article/details/82526698)    
