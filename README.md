@@ -33,3 +33,12 @@
 **tip**: [python进行U盘复制](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%B8%89%E5%91%A8%20python%E8%BF%9B%E8%A1%8CU%E7%9B%98%E5%A4%8D%E5%88%B6.md)    
 
 **share**: [CAS以及其ABA问题及解决方法](https://blog.csdn.net/ack_Finding/article/details/82526698)    
+
+### 第四周(2019.4.22~2019.4.28)
+**algorithm**: [19. Remove Nth Node From End of List](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%9B%9B%E5%91%A8%2019.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) 
+
+**review**: [springboot文档 14~17](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%9B%9B%E5%91%A8%20springboot%E6%96%87%E6%A1%A3%2014%7E17.md)  
+
+**tip**: [Spring AOP内部方法调用失效](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%9B%9B%E5%91%A8%20Spring%20Aop%E5%86%85%E9%83%A8%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8%E5%A4%B1%E6%95%88.md)  
+
+**share**: [代理模式](https://github.com/ackFinding/ARTS/blob/master/Share/%E7%AC%AC%E5%9B%9B%E5%91%A8%20%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
