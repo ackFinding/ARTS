@@ -42,3 +42,21 @@
 **tip**: [Spring AOP内部方法调用失效](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%9B%9B%E5%91%A8%20Spring%20Aop%E5%86%85%E9%83%A8%E6%96%B9%E6%B3%95%E8%B0%83%E7%94%A8%E5%A4%B1%E6%95%88.md)  
 
 **share**: [代理模式](https://github.com/ackFinding/ARTS/blob/master/Share/%E7%AC%AC%E5%9B%9B%E5%91%A8%20%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
+
+### 第五周(2019.4.29~2019.5.5)
+**algorithm**: [20.Valid Parentheses](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E4%BA%94%E5%91%A8%2020.%20Valid%20Parentheses.md)
+
+**review**: [第五周 springboot文档 18~19](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E4%BA%94%E5%91%A8%20springboot%E6%96%87%E6%A1%A3%2018~19.md) 
+
+**tip**: [第五周 享元模式在jdk应用](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%BA%94%E5%91%A8%20%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F%E5%9C%A8jdk%E5%BA%94%E7%94%A8.md)
+
+**share**: [第五周 String源码解析](https://github.com/ackFinding/ARTS/blob/master/Share/%E7%AC%AC%E4%BA%94%E5%91%A8%20String%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+
+### 第六周(2019.5.6~2019.5.12)
+**algorithm**:[5. Longest Palindromic Substring](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%85%AD%E5%91%A8%205.Longest%20Palindromic%20Substring.md)
+
+**review**: [springboot文档 23](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%85%AD%E5%91%A8%20springboot%E6%96%87%E6%A1%A323.md)
+
+**tip**: [du和df](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%85%AD%E5%91%A8%20du%E5%92%8Cdf.md)
+
+**share**: [使用asmtools修改字节码](https://www.jianshu.com/p/3276e189840d)
