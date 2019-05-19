@@ -60,3 +60,12 @@
 **tip**: [du和df](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%85%AD%E5%91%A8%20du%E5%92%8Cdf.md)
 
 **share**: [使用asmtools修改字节码](https://www.jianshu.com/p/3276e189840d)
+
+### 第七周(2019.5.13~2019.5.19)
+**algorithm**:[33. Search in Rotated Sorted Array & 35. Search Insert Position](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E4%B8%83%E5%91%A8%2033.%20Search%20in%20Rotated%20Sorted%20Array%20%26%2035.%20Search%20Insert%20Position.md))
+
+**review**: [springboot文档 24](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E4%B8%83%E5%91%A8%20springboot%E6%96%87%E6%A1%A3%2024.md)
+
+**tip**: [异常处理finally块](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%B8%83%E5%91%A8%20%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86finally%E5%9D%97.md)
+
+**share**: [Java基本类型的存储](https://www.jianshu.com/p/da6c41fdbe68)
