@@ -69,3 +69,12 @@
 **tip**: [异常处理finally块](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E4%B8%83%E5%91%A8%20%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86finally%E5%9D%97.md)
 
 **share**: [Java基本类型的存储](https://www.jianshu.com/p/da6c41fdbe68)
+
+### 第八周(2019.5.20~2019.5.26)
+**algorithm**:[9. Palindrome Number](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%85%AB%E5%91%A8%209.%20Palindrome%20Number.md)
+
+**review**: [springboot文档 25~27](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%85%AB%E5%91%A8%20springboot%E6%96%87%E6%A1%A3%2025%7E27.md)
+
+**tip**: [线程池相关注意点](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%85%AB%E5%91%A8%20%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9B%B8%E5%85%B3%E6%B3%A8%E6%84%8F%E7%82%B9.md)
+
+**share**: [实现一个简单的Tomcat](https://www.jianshu.com/p/9c14795b58b0)
