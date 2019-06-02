@@ -78,3 +78,12 @@
 **tip**: [线程池相关注意点](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC%E5%85%AB%E5%91%A8%20%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9B%B8%E5%85%B3%E6%B3%A8%E6%84%8F%E7%82%B9.md)
 
 **share**: [实现一个简单的Tomcat](https://www.jianshu.com/p/9c14795b58b0)
+
+### 第九周(2019.5.27~2019.6.2)
+**algorithm**:[23. Merge k Sorted Lists.md at master](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E4%B9%9D%E5%91%A8%2023.%20Merge%20k%20Sorted%20Lists.md)
+
+**review**: [spring boot文档 29.1](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E4%B9%9D%E5%91%A8%20spring%20boot%E6%96%87%E6%A1%A3%2029.1%20.md)
+
+**tip**: [01| 可见性、原子性和有序性问题：并发编程Bug的源头](https://www.jianshu.com/p/7ce2f3f0d3ff)
+
+**share**: [21| 为什么我只改一行的语句，锁这么多？](https://www.jianshu.com/p/efcdf8f06862)
