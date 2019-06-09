@@ -87,3 +87,13 @@
 **tip**: [01| 可见性、原子性和有序性问题：并发编程Bug的源头](https://www.jianshu.com/p/7ce2f3f0d3ff)
 
 **share**: [21| 为什么我只改一行的语句，锁这么多？](https://www.jianshu.com/p/efcdf8f06862)
+
+### 第十周(2019.6.3~2019.6.9)
+**algorithm**:[142. Linked List Cycle II](<https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E5%91%A8%20142.%20Linked%20List%20Cycle%20II.md>)
+
+**review**: [Notes on structured concurrency, or: Go statement considered harmful](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%8D%81%E5%91%A8%20Notes%20on%20structured%20concurrency%2C%20or:%20Go%20statement%20considered%20harmful.md)
+
+**tip**: [单链表练习](https://www.jianshu.com/p/60307c1d18c4)
+
+**share**: [02| Java内存模型：看Java如何解决可见性和有序性问题](https://www.jianshu.com/p/72bfd96be18c)
+
