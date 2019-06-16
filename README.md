@@ -98,9 +98,9 @@
 **share**: [02| Java内存模型：看Java如何解决可见性和有序性问题](https://www.jianshu.com/p/72bfd96be18c)
 
 ### 第十一周(2019.6.10~2019.6.16)
-**algorithm**:[第十一周 二分查找复习](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E5%A4%8D%E4%B9%A0.md)
+**algorithm**:[二分查找复习](https://github.com/ackFinding/ARTS/blob/master/algorithm/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E5%A4%8D%E4%B9%A0.md)
 
-**review**: [第十一周 Big O](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8%20Big%20O.md)
+**review**: [Big O](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8%20Big%20O.md)
 
 **tip**: [11 | Java线程（下）：为什么局部变量是线程安全的？](https://www.jianshu.com/p/824ea07984e6)
 
