@@ -115,4 +115,23 @@
 
 **share**: [30 | 线程本地存储模式：没有共享，就没有伤害](https://www.jianshu.com/p/513a0f521f3c)
 
+### 第十三周(2019.6.24~2019.6.30)
+**algorithm**:[98. Validate Binary Search Tree](https://www.jianshu.com/p/f7c65f348bfc)
 
+**review**: [Immutable empty collections and iterators](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC13%E5%91%A8%20Immutable%20empty%20collections%20and%20iterators.md)
+
+**tip**: 
+[从0到1将公众号接入聊天机器人(一)之准备工作](https://www.jianshu.com/p/b269cb82af28)  
+[从0到1将公众号接入聊天机器人(二)之程序实现](https://www.jianshu.com/p/fc2c9b2fa4bc)  
+[从0到1将公众号接入聊天机器人(三)之接入云服务器和公众号](https://www.jianshu.com/p/4b2cf2eca406)  
+
+**share**: [redis watch命令实现秒杀demo](https://www.jianshu.com/p/93cd65d07b56)  
+
+### 第十四周(2019.7.1~2019.7.7)  
+**algorithm**:[102. Binary Tree Level Order Traversal](https://www.jianshu.com/p/32d1ea8b3006)
+
+**review**: [Use a Pencil: How a Java Developer Gets Stuff Done](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC14%E5%91%A8%20Use%20a%20Pencil:%20How%20a%20Java%20Developer%20Gets%20Stuff%20Done.md)
+
+**tip**: [redis实现分布式锁](https://www.jianshu.com/p/b42f2be91869)
+
+**share**: [zookeeper实现分布式锁](https://www.jianshu.com/p/d14c87ee7937)
