@@ -144,3 +144,12 @@
 **tip**: [Apollo入门小结](https://www.jianshu.com/p/e4d6b5d2159c)
 
 **share**: [Kubernetes入门小结](https://www.jianshu.com/p/017d58dd8861)
+
+### 第十六周(2019.7.14~2019.7.20)  
+**algorithm**:
+
+**review**: 
+
+**tip**: [HDFS入门小结](https://www.jianshu.com/p/cbcca80dab87)
+
+**share**: 
