@@ -152,4 +152,13 @@
 
 **tip**: [HDFS入门小结](https://www.jianshu.com/p/cbcca80dab87)
 
-**share**: 
+**share**: [HDFS常用命令](https://www.jianshu.com/p/a3bc1a36ee4b)
+
+### 第十七周(2019.7.21~2019.7.27)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[Docker本地registry创建](https://www.jianshu.com/p/e86209da0ee8)
+
+**share**:[关于/var/run/docker.sock的理解](https://www.jianshu.com/p/e0421e64c175)
