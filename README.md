@@ -148,7 +148,7 @@
 ### 第十六周(2019.7.14~2019.7.20)  
 **algorithm**:
 
-**review**: 
+**review**: [Spring DI Patterns: The Good, The Bad, and The Ugly](https://github.com/ackFinding/ARTS/blob/master/Review/%E7%AC%AC16%E5%91%A8%20Spring%20DI%20Patterns:%20The%20Good%2C%20The%20Bad%2C%20and%20The%20Ugly.md)
 
 **tip**: [HDFS入门小结](https://www.jianshu.com/p/cbcca80dab87)
 
