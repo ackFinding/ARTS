@@ -170,5 +170,86 @@
 
 **tip**:[Docker运行容器传参](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC16%E5%91%A8%20Docker%E8%BF%90%E8%A1%8C%E5%AE%B9%E5%99%A8%E4%BC%A0%E5%8F%82.md)
 
+**share**:[okhttp3调用response.body().string();报错java.lang.IllegalStateException: closed - 简书](https://www.jianshu.com/p/610c3f27d2ca)
+
+### 第十九周(2019.8.4~2019.8.10)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[maven plugin打包docker镜像 - 简书](https://www.jianshu.com/p/e83c3b5fbfb4)
+
+**share**:[存在依赖但报错java.lang.NoClassDefFoundError - 简书](https://www.jianshu.com/p/d0819d24a747)
+
+### 第二十周(2019.8.11~2019.8.17)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[maven打包执行shell - 简书](https://www.jianshu.com/p/e69ef319f7f1)
+
+**share**:[java.lang.IllegalStateException: Failed to load ApplicationContext - 简书](https://www.jianshu.com/p/3da306301a41)
+
+### 第二十一周(2019.8.18~2019.8.24)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[curl常用 - 简书](https://www.jianshu.com/p/b65975d639aa)
+
+**share**:[Docker运行输出错误[sh: xxx.sh: No such file or directory] - 简书](https://www.jianshu.com/p/06e4969e2d60)
+
+### 第二十二周(2019.8.25~2019.8.31)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[docker相关 - 简书](https://www.jianshu.com/p/796cb43c453c)
+
+**share**:[stop docker 返回137 - 简书](https://www.jianshu.com/p/310cc3094f0a)
+
+### 第二十三周(2019.9.1~2019.9.7)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[运行docker容器传递参数 - 简书](https://www.jianshu.com/p/50b0017470f2)
+
+**share**:[监控kubernetes job是否完成 - 简书](https://www.jianshu.com/p/578b3a2db30c)
+
+### 第二十四周(2019.9.8~2019.9.14)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[Ant maven plugin通过curl发送Post请求 - 简书](https://www.jianshu.com/p/31783ecb07cb)
+
+**share**:
+[ApiInstance.createNamespacedJob引起SocketTimeoutException - 简书](https://www.jianshu.com/p/98ea2eab93da)
+
+### 第二十五周(2019.9.15~2019.9.21)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[cannot pull images 127.0.0.1:5000/peanut:v4 - 简书](https://www.jianshu.com/p/7afda2c2a10e)
+
+**share**:[运行shell脚本报错```\r':command not found``` - 简书](https://www.jianshu.com/p/9dbd8e984cac)
+
+### 第二十六周(2019.9.22~2019.9.28)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[restful请求报错404 not found - 简书](https://www.jianshu.com/p/61309cc94d25)
+
 **share**:
 
+### 第二十七周(2019.9.29~2019.10.5)   
+**algorithm**:
+
+**review**: 
+
+**tip**:[K8S删除Job时报错java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT - 简书](https://www.jianshu.com/p/4c2e876dbfb2)
+
+**share**:
