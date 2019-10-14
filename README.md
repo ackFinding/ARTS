@@ -155,7 +155,7 @@
 **share**: [HDFS常用命令](https://www.jianshu.com/p/a3bc1a36ee4b)
 
 ### 第十七周(2019.7.21~2019.7.27)   
-**algorithm**:
+**algorithm**:[450. Delete Node in a BST - 简书](https://www.jianshu.com/p/3a7a2129176e)
 
 **review**: 
 
