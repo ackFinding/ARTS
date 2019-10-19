@@ -157,32 +157,32 @@
 ### 第十七周(2019.7.21~2019.7.27)   
 **algorithm**:[450. Delete Node in a BST - 简书](https://www.jianshu.com/p/3a7a2129176e)
 
-**review**: 
+**review**: Pro Spring 5, 5th Edition前言
 
 **tip**:[Docker本地registry创建](https://www.jianshu.com/p/e86209da0ee8)
 
 **share**:[关于/var/run/docker.sock的理解](https://www.jianshu.com/p/e0421e64c175)
 
 ### 第十八周(2019.7.28~2019.8.3)   
-**algorithm**:
+**algorithm**:[189. Rotate Array - 简书](https://www.jianshu.com/p/bb1699f507d2)
 
-**review**: 
+**review**: Pro Spring 5, 5th Edition chapter1
 
 **tip**:[Docker运行容器传参](https://github.com/ackFinding/ARTS/blob/master/Tip/%E7%AC%AC16%E5%91%A8%20Docker%E8%BF%90%E8%A1%8C%E5%AE%B9%E5%99%A8%E4%BC%A0%E5%8F%82.md)
 
 **share**:[okhttp3调用response.body().string();报错java.lang.IllegalStateException: closed - 简书](https://www.jianshu.com/p/610c3f27d2ca)
 
 ### 第十九周(2019.8.4~2019.8.10)   
-**algorithm**:
+**algorithm**:[994. Rotting Oranges - 简书](https://www.jianshu.com/p/948ef6e6a1a6)
 
-**review**: 
+**review**: Pro Spring 5, 5th Edition chapter1
 
 **tip**:[maven plugin打包docker镜像 - 简书](https://www.jianshu.com/p/e83c3b5fbfb4)
 
 **share**:[存在依赖但报错java.lang.NoClassDefFoundError - 简书](https://www.jianshu.com/p/d0819d24a747)
 
 ### 第二十周(2019.8.11~2019.8.17)   
-**algorithm**:
+**algorithm**:[108. Convert Sorted Array to Binary Search Tree - 简书](https://www.jianshu.com/p/d14580556ef7)
 
 **review**: 
 
@@ -191,7 +191,7 @@
 **share**:[java.lang.IllegalStateException: Failed to load ApplicationContext - 简书](https://www.jianshu.com/p/3da306301a41)
 
 ### 第二十一周(2019.8.18~2019.8.24)   
-**algorithm**:
+**algorithm**:[利用堆求TopK - 简书](https://www.jianshu.com/p/1836a9131d08)
 
 **review**: 
 
