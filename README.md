@@ -243,7 +243,7 @@
 
 **tip**:[restful请求报错404 not found - 简书](https://www.jianshu.com/p/61309cc94d25)
 
-**share**:
+**share**:[KMP中next数组理解](https://www.jianshu.com/p/35aa47eea2d8)
 
 ### 第二十七周(2019.9.29~2019.10.5)   
 **algorithm**:
